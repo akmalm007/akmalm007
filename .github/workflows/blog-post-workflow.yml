@@ -14,4 +14,4 @@ jobs:
       - name: Pull in dev.to posts
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
-          feed_list: "https://akmal-maulana.my.id/feed.xml,https://akmal-maulana.my.id/feed/blog.xml"
+          feed_list: "https://roytang.net/blog/feed/rss/"
