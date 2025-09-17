@@ -1,6 +1,15 @@
-### Hi there 👋
+## Hi there, I'm Akmal 👋
 
-I'm currently learning Informatics Engineering in Politeknik Negeri Jakarta
+Fresh Graduated from Informatics Engineering with interest in Linux, Cloud Computing and DevOps.
+
+Currently unemployed and still searching for internship or jobs, while searching for jobs i am also active writing blog in my personal website about techincal topics or my hobby. So you if you want to hired to be Techincal Writer i am open for the opportunity.
+
+### Recent Posts:
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+
+
 <!--
 **akmalm007/akmalm007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
