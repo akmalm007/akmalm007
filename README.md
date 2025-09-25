@@ -6,11 +6,11 @@ Currently unemployed and still searching for internship or jobs, while searching
 
 ### Recent Posts
 <!-- BLOG-POST-LIST:START -->
+- [Bagaimana aku membuat tim di dalam game](https://akmal-maulana.my.id/blog/2025/09/25/bagaimana-aku-membuat-tim-di-dalam-game.html)
 - [Tentang Menulis Buku](https://akmal-maulana.my.id/blog/2025/09/17/Tentang-Menulis-Buku.html)
 - [Kembali Ke Terminal](https://akmal-maulana.my.id/blog/2025/09/02/Kembali-ke-Terminal.html)
 - [Monthly Log 2 August 2025](https://akmal-maulana.my.id/logs/2025/09/01/Monthly-Log-2-August-2025.html)
 - [Esai Bisa Mengubah Pandangan Seseorang Maka Hot Take Sama Dengan Menembak Kakimu Sendiri](https://akmal-maulana.my.id/blog/2025/08/28/Esai-bisa-mengubah-pandangan-seseorang-maka-hot-take-sama-dengan-menembak-kakimu-sendiri.html)
-- [Today I Start Blogging](https://akmal-maulana.my.id/blog/2025/08/25/Today-i-start-blogging.html)
 <!-- BLOG-POST-LIST:END -->
 
 
