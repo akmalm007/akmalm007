@@ -6,11 +6,11 @@ Currently unemployed and still searching for internship or jobs, while searching
 
 ### Recent Posts
 <!-- BLOG-POST-LIST:START -->
+- [Monthly Log 4 Oktober 2025](https://akmal-maulana.my.id/logs/2025/11/04/monthly-log-4-oktober-2025.html)
+- [Memetakan Jakarta Edisi 3](https://akmal-maulana.my.id/blog/2025/10/26/memetakan-jakarta-edisi-3.html)
 - [Statistik Pemotongan Hewan Kurban Idul Adha 1446h](https://akmal-maulana.my.id/blog/2025/10/23/statistik-pemotongan-hewan-kurban-idul-adha-1446H.html)
 - [Aligning The Stars](https://akmal-maulana.my.id/blog/2025/10/22/aligning-the-stars.html)
 - [Kenapa biaya perbaikan laptop ku mahal sekali](https://akmal-maulana.my.id/blog/2025/10/21/kenapa-biaya-perbaikan-laptop-ku-mahal-sekali.html)
-- [Jalan Yang Kuambil Penuh Dengan Misteri](https://akmal-maulana.my.id/blog/2025/10/17/Jalan-yang-kuambil-penuh-dengan-misteri.html)
-- [Grub Arch Dan Ubuntu Memiliki Implementasi Yang Berbeda](https://akmal-maulana.my.id/blog/2025/10/14/grub-arch-dan-ubuntu-memiliki-implementasi-yang-berbeda.html)
 <!-- BLOG-POST-LIST:END -->
 
 
