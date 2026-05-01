@@ -6,11 +6,11 @@ Currently unemployed and still searching for internship or jobs, while searching
 
 ### Recent Posts
 <!-- BLOG-POST-LIST:START -->
-- [This Moment In Life](https://akmal-maulana.my.id/blog/2026/03/30/this-moment-in-life.html)
-- [Monthly Log 7 Januari 2026](https://akmal-maulana.my.id/logs/2026/03/06/monthly-log-7-januari-2026.html)
-- [Format SSD dan Reset Router](https://akmal-maulana.my.id/blog/2026/02/15/reset-router-dan-ssd.html)
-- [Refleksi 2025 Dan Harapan 2026](https://akmal-maulana.my.id/blog/2026/02/02/refleksi-2025-dan-harapan-2026.html)
-- [Peripheral Wire Dan Wireless Yang Kumiliki](https://akmal-maulana.my.id/blog/2026/01/30/peripheral-wire-dan-wireless-yang-kumiliki.html)
+- [Changing My Domain Name](https://akmalmaulana.net/blog/2026/05/01/change-my-domain-name.html)
+- [Pain and Suffering melakukan deployment dengan Podman](https://akmalmaulana.net/blog/2026/04/16/pain-and-suffering-with-podman.html)
+- [This Moment In Life](https://akmalmaulana.net/blog/2026/03/30/this-moment-in-life.html)
+- [Monthly Log 7 Januari 2026](https://akmalmaulana.net/logs/2026/03/06/monthly-log-7-januari-2026.html)
+- [Format SSD dan Reset Router](https://akmalmaulana.net/blog/2026/02/15/reset-router-dan-ssd.html)
 <!-- BLOG-POST-LIST:END -->
 
 
